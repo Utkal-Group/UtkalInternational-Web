@@ -1,0 +1,37 @@
+{
+  "name": "utkal",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3006",
+    "build": "next build",
+    "start": "next start -p 3006",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.0.1",
+    "@mui/material": "^6.0.1",
+    "aos": "^2.3.4",
+    "framer-motion": "^11.5.6",
+    "next": "14.2.7",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-slick": "^0.30.2",
+    "sharp": "^0.33.5",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/aos": "^3.0.7",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-slick": "^0.23.13",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.7",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

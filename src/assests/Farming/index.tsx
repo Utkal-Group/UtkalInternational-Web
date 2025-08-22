@@ -1,0 +1,13 @@
+export { default as crumb1} from "./spice-variety-wooden-table-surface-generative-ai.jpg"
+export { default as plant1} from "./black pepper.jpg"
+export { default as plant2} from "./jaggery.jpg"
+export { default as plant3} from "./Cashew.jpg"
+export { default as plant4} from "./ginger.jpg"
+export { default as plant5} from "./coffee beans.jpg"
+export { default as plant6} from "./foxnuts.jpg"
+export { default as butterfly} from "./butterfly.jpg"
+export { default as leaf} from "./leaf.jpg"
+export { default as cherry} from "./Cherry-52.png"
+export { default as man} from "./man.jpg"
+export { default as fact} from "./fact_bg (8).jpg"
+

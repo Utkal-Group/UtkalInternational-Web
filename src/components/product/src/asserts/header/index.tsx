@@ -1,0 +1,1 @@
+export { default as logo} from "./utkal international white (1).png"

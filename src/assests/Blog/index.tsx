@@ -1,0 +1,6 @@
+export { default as blog1} from "./blog_thumb01.jpg"
+export { default as blog2} from "./blog_thumb02.jpg"
+export { default as blog3} from "./blog_thumb03.jpg"
+export { default as blog4} from "./rc_post_thumb03.jpg"
+export { default as breadcrumb} from "./breadcrumb_bg04.jpg"
+export { default as background} from "./blog_bg02.jpg"

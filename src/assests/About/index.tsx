@@ -1,0 +1,7 @@
+export { default as Image} from "./farm.jpg"
+export { default as image1} from "./features_icon01.png"
+export { default as image2} from "./features_icon02.png"
+export { default as image3} from "./features_icon03.png"
+export { default as header} from "./header_bg (1).jpg"
+export { default as bg} from "./faq_bg02.jpg"
+export { default as bg1} from "./IMG_1314.jpg"
